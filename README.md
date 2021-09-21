@@ -1,6 +1,4 @@
 # stat545demo
-demo for in class.
+This is a demo for the class. 
 
-wasabi beans are spicy. 
-
-Why am I keep eating it?
+We will test branch, pull request, etc.
